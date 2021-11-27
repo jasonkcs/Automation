@@ -10,3 +10,13 @@
 00:53:51.246 [main] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Market Insights Executed Successfully 
 00:53:51.301 [main] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Reports Executed Successfully 
 00:53:51.343 [main] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Search Box  Executed Successfully 
+17:15:17.965 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Launch Login Executed Successfully 
+17:15:18.023 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Customer Service Executed Successfully 
+17:15:18.083 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Feedback Executed Successfully 
+17:15:18.121 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Fund Solution Executed Successfully 
+17:15:18.156 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Investor Functionality Executed Successfully 
+17:15:18.195 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Login Executed Successfully 
+17:15:18.226 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Logo Executed Successfully 
+17:15:18.265 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Market Insights Executed Successfully 
+17:15:18.303 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Reports Executed Successfully 
+17:15:18.335 [TestNG-tests-1] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Search Box  Executed Successfully 

@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-26T00:53:41 SGT" name="Default suite" finished-at="2021-11-26T00:53:52 SGT" duration-ms="10601">
+  <suite started-at="2021-11-27T17:15:12 MYT" name="Suite" finished-at="2021-11-27T17:15:18 MYT" duration-ms="6139">
     <groups>
     </groups>
-    <test started-at="2021-11-26T00:53:41 SGT" name="Default test" finished-at="2021-11-26T00:53:52 SGT" duration-ms="10601">
+    <test started-at="2021-11-27T17:15:12 MYT" name="Default test" finished-at="2021-11-27T17:15:18 MYT" duration-ms="6139">
       <class name="OpenSource.Automation.Tests.Test.TestSetup">
-        <test-method signature="launchLogin(java.lang.String,java.lang.String)[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:41 SGT" name="launchLogin" data-provider="getData" finished-at="2021-11-26T00:53:50 SGT" duration-ms="9306" status="PASS">
+        <test-method signature="launchLogin(java.lang.String,java.lang.String)[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:12 MYT" name="launchLogin" data-provider="getData" finished-at="2021-11-27T17:15:17 MYT" duration-ms="5358" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,47 +23,47 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchLogin -->
-        <test-method signature="verifyCustomerService()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:50 SGT" name="verifyCustomerService" description="Verifying CustomerService on FT Page" finished-at="2021-11-26T00:53:50 SGT" duration-ms="120" status="PASS">
+        <test-method signature="verifyCustomerService()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:17 MYT" name="verifyCustomerService" description="Verifying CustomerService on FT Page" finished-at="2021-11-27T17:15:18 MYT" duration-ms="46" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyCustomerService -->
-        <test-method signature="verifyFeedback()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:50 SGT" name="verifyFeedback" description="Verifying Feedback on FT Page" finished-at="2021-11-26T00:53:50 SGT" duration-ms="82" status="PASS">
+        <test-method signature="verifyFeedback()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:18 MYT" name="verifyFeedback" description="Verifying Feedback on FT Page" finished-at="2021-11-27T17:15:18 MYT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyFeedback -->
-        <test-method signature="verifyFundSolution()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:50 SGT" name="verifyFundSolution" description="Verifying fundSolution on FT Page" finished-at="2021-11-26T00:53:51 SGT" duration-ms="56" status="PASS">
+        <test-method signature="verifyFundSolution()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:18 MYT" name="verifyFundSolution" description="Verifying fundSolution on FT Page" finished-at="2021-11-27T17:15:18 MYT" duration-ms="36" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyFundSolution -->
-        <test-method signature="verifyInvestorEducation()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:51 SGT" name="verifyInvestorEducation" description="Verifying InvestorEducaton on FT Page" finished-at="2021-11-26T00:53:51 SGT" duration-ms="56" status="PASS">
+        <test-method signature="verifyInvestorEducation()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:18 MYT" name="verifyInvestorEducation" description="Verifying InvestorEducaton on FT Page" finished-at="2021-11-27T17:15:18 MYT" duration-ms="34" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyInvestorEducation -->
-        <test-method signature="verifyLogin()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:51 SGT" name="verifyLogin" description="Verify Login/Registration on FT WebPage" finished-at="2021-11-26T00:53:51 SGT" duration-ms="46" status="PASS">
+        <test-method signature="verifyLogin()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:18 MYT" name="verifyLogin" description="Verify Login/Registration on FT WebPage" finished-at="2021-11-27T17:15:18 MYT" duration-ms="38" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
-        <test-method signature="verifyLogo()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:51 SGT" name="verifyLogo" description="Verifying the FT logo in  website" finished-at="2021-11-26T00:53:51 SGT" duration-ms="41" status="PASS">
+        <test-method signature="verifyLogo()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:18 MYT" name="verifyLogo" description="Verifying the FT logo in  website" finished-at="2021-11-27T17:15:18 MYT" duration-ms="31" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogo -->
-        <test-method signature="verifyMarketInsights()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:51 SGT" name="verifyMarketInsights" description="Verifying MarketInsights on FT Page" finished-at="2021-11-26T00:53:51 SGT" duration-ms="53" status="PASS">
+        <test-method signature="verifyMarketInsights()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:18 MYT" name="verifyMarketInsights" description="Verifying MarketInsights on FT Page" finished-at="2021-11-27T17:15:18 MYT" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyMarketInsights -->
-        <test-method signature="verifyReports()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:51 SGT" name="verifyReports" description="Verifying Report on FT Page" finished-at="2021-11-26T00:53:51 SGT" duration-ms="54" status="PASS">
+        <test-method signature="verifyReports()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:18 MYT" name="verifyReports" description="Verifying Report on FT Page" finished-at="2021-11-27T17:15:18 MYT" duration-ms="37" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyReports -->
-        <test-method signature="verifySearchBox()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:51 SGT" name="verifySearchBox" description="Verifying searchBox on FT Page" finished-at="2021-11-26T00:53:51 SGT" duration-ms="40" status="PASS">
+        <test-method signature="verifySearchBox()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:18 MYT" name="verifySearchBox" description="Verifying searchBox on FT Page" finished-at="2021-11-27T17:15:18 MYT" duration-ms="31" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySearchBox -->
-        <test-method is-config="true" signature="flushObjects()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@3d484181]" started-at="2021-11-26T00:53:51 SGT" name="flushObjects" finished-at="2021-11-26T00:53:52 SGT" duration-ms="657" status="PASS">
+        <test-method is-config="true" signature="flushObjects()[pri:0, instance:OpenSource.Automation.Tests.Test.TestSetup@5ed731d0]" started-at="2021-11-27T17:15:18 MYT" name="flushObjects" finished-at="2021-11-27T17:15:18 MYT" duration-ms="388" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushObjects -->
       </class> <!-- OpenSource.Automation.Tests.Test.TestSetup -->
     </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+  </suite> <!-- Suite -->
 </testng-results>
