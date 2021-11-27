@@ -1,0 +1,5 @@
+23:41:50.216 [main] INFO  OpenSource.Automation.Tests.Test.TestSetup - Launch Login Executed Successfully 
+23:41:50.353 [main] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Customer Service Executed Successfully 
+23:41:50.443 [main] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Feedback Executed Successfully 
+23:41:50.527 [main] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Fund Solution Executed Successfully 
+23:41:50.585 [main] INFO  OpenSource.Automation.Tests.Test.TestSetup - Verify Investor Functionality Executed Successfully 
